@@ -1,0 +1,288 @@
+.logoheader {
+  position: relative;
+
+  width: 1920px;
+  height: 104px;
+  left: 0px;
+  top: 0px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.05);
+}
+  .logo {
+    position: absolute;
+    width: 217px;
+    height: 44px;
+    left: 130px;
+    top: 30px;
+  }
+.cap {
+  position: relative;
+  min-height: 280px;
+  padding: 15px 0 45px 137px;
+  border-radius: 22px;
+  background-color: #f5fafc;
+}
+.imgge {
+  width: 291px;
+  height: 291px;
+
+  position: absolute;
+  right: 0;
+  bottom: 5px;
+}
+.imgge img {
+  width: 100%;
+  height: 100%;
+}
+
+.caption h5 {
+  width: 269px;
+  height: 34px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+
+  color: #000000;
+}
+.caption p {
+  width: 663px;
+  height: 26px;
+  top: 284px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+}
+.btn {
+  width: 150px;
+  height: 45px;
+  margin-left: 10px;
+  color: white !important;
+  background: #3298cb;
+  border-radius: 12px;
+}
+/* .imgcenter
+{
+    position: absolute;
+    left: 50%;
+     transform: translatex(-50);
+
+} */
+.itemm p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  color: #b5b5b5;
+}
+
+.images_upload {
+  background: #f5fafc;
+  border: 1.5px dashed rgba(50, 152, 203, 0.25);
+  border-radius: 12px;
+}
+.image_upload {
+  color: #3298cb;
+  border: solid 1px #3298cb;
+  cursor: pointer;
+  z-index: 9999;
+  padding: 6px 35px !important;
+  left: 50%;
+  transform: translatex(-50%);
+  margin-bottom: 7px;
+  border-radius: 4px;
+  margin-top: 7px;
+}
+.image_upload button:hover {
+  background-color: white;
+  box-shadow: 0px 4px 9px rgba(50, 152, 203, 0.25);
+}
+.imgdd {
+  width: 150px !important;
+  height: 150px;
+}
+
+.alert
+{
+  color: red;
+  opacity: 0; 
+}
+.vipp
+{
+  color: #B5B5B5
+  !important;
+}
+.vippspan
+{
+  color: #000000 !important;
+}
+#test {
+  margin: 20px 0px;
+  padding: 25px 31px 25px 50px;
+  border-radius: 12px;
+  box-shadow: 0 4px 35px 0 rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+}
+.numclass {
+  padding: 17px 26px 16px 27px;
+  background-color: #eefaff;
+}
+.divsp {
+  width: 30px;
+  height: 30px;
+  flex-grow: 0;
+  border-radius: 50%;
+  margin-right: 15px;
+
+  background-color: #eefaff;
+}
+
+#num {
+  color: #3298cb !important;
+}
+.spancolor {
+  color: #b5b5b5;
+}
+.float-end button {
+  background-color: #3298cb !important
+   ;
+  color: white;
+}
+/* .buposition button {
+  position: relative;
+  left: 87%;
+} */
+.resultp {
+  font-size: 13px !important;
+}
+.buwidth {
+  /*   */
+  width: 180px;
+  background-color: transparent !important;
+  color: #3298cb !important  ;
+  font-size: 18px !important;
+}
+img[src="img/Group17.svg"] {
+  position: relative;
+  right: 15px;
+}
+.download button{
+  border: #3298cb solid 1.5px !important;
+  border-radius: 5px;
+  padding: 3px ;
+}
+.download button:hover {
+  background-color: white;
+  box-shadow: 0px 4px 9px rgba(50, 152, 203, 0.25);
+}
+.dowenloadcaption p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 34px;
+  /* identical to box height */
+
+  color: #b5b5b5;
+}
+.dowenloadcaption p span {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 34px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.p-position{
+  top: 5px;
+}
+.loginBack
+{
+
+    width: 100%;
+    height:100vh;
+  
+   
+    background-image: linear-gradient(to bottom, #d7f2ff 0%, #d6f1fe 7%, #f6f6f6 100%);
+  
+
+}
+.paragraf
+{
+  font-family: Inter;
+  font-size: 18px;
+
+  color: #000;
+}
+.divRectangle
+{
+
+
+  
+  width: 600px;
+  /* padding: 76px 102px; */
+  border-radius: 12px;
+  box-shadow: 0 4px 250px 0 rgba(50, 152, 203, 0.2);
+  background-color: #fff;
+ 
+  position: relative;
+}
+.emaillabel label, .passwordlabel label
+{
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 500;
+  color: #000;
+
+}
+.emaillabel img, .passwordlabel img
+{
+  font-family: Inter;
+  width: 25px;
+  margin-right: 5px;
+  font-size: 5px;
+  font-weight: 500;
+  color: #000;
+
+}
+#eyeposiyion
+{
+  position: relative;
+  left: 465px;
+  bottom: 34px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.divposion img
+{
+  width: 175px;
+  height: 36px;
+  flex-grow: 0;
+  margin: 0 104px 13px 0;
+  object-fit: contain;
+}
+.butttn
+{
+  padding: 10px;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  background-color: #3298cb;
+}
+/* .downloaddiv {
+  width: 30%;
+} */
+
